@@ -65,9 +65,11 @@ namespace EmployeeWcfServiceApplication
         public DateTime DateOfBirth { get; set; }
 
         [DataMember]
-        
-        public DateTime DateOfJoining { get; set; }
+        [Display(Name ="Date of Joning")]
+        [DataType(DataType.Date), DisplayFormat(DataFormatString = "{0:dd/MM/yyyy}", ApplyFormatInEditMode = true)]
+        public Nullable<DateTime> DateOfJoining { get; set; }
 
+        [DisplayFormat(DataFormatString = "{0:dd/MM/yyyy}", ApplyFormatInEditMode = true)]
         [DataMember]
         [DataType(DataType.Date)]
         public DateTime MarketingStartDate { get; set; }

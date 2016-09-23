@@ -7,10 +7,12 @@ namespace EmployeeWcfServiceApplication.Migrations
     {
         public override void Up()
         {
+            AlterColumn("dbo.Employees", "DateOfJoining", c => c.DateTime());
         }
         
         public override void Down()
         {
+            AlterColumn("dbo.Employees", "DateOfJoining", c => c.DateTime(nullable: false));
         }
     }
 }

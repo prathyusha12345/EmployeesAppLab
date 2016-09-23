@@ -121,13 +121,9 @@
     <Compile Include="Migrations\201609222033395_thirdModel.Designer.cs">
       <DependentUpon>201609222033395_thirdModel.cs</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\201609231316492_DateFormatChanged.cs" />
-    <Compile Include="Migrations\201609231316492_DateFormatChanged.Designer.cs">
-      <DependentUpon>201609231316492_DateFormatChanged.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\201609231513510_fourthModel.cs" />
-    <Compile Include="Migrations\201609231513510_fourthModel.Designer.cs">
-      <DependentUpon>201609231513510_fourthModel.cs</DependentUpon>
+    <Compile Include="Migrations\201609231613218_fourthModel.cs" />
+    <Compile Include="Migrations\201609231613218_fourthModel.Designer.cs">
+      <DependentUpon>201609231613218_fourthModel.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -157,11 +153,8 @@
     <EmbeddedResource Include="Migrations\201609222033395_thirdModel.resx">
       <DependentUpon>201609222033395_thirdModel.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201609231316492_DateFormatChanged.resx">
-      <DependentUpon>201609231316492_DateFormatChanged.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201609231513510_fourthModel.resx">
-      <DependentUpon>201609231513510_fourthModel.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\201609231613218_fourthModel.resx">
+      <DependentUpon>201609231613218_fourthModel.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>

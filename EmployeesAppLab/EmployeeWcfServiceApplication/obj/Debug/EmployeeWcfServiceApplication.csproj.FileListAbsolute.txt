@@ -27,3 +27,31 @@ C:\Users\prathyu\documents\visual studio 2015\Projects\EmployeesAppLab\EmployeeW
 C:\Users\prathyu\documents\visual studio 2015\Projects\EmployeesAppLab\EmployeeWcfServiceApplication\obj\Debug\EmployeeWcfServiceApplication.Migrations.thirdModel.resources
 C:\Users\prathyu\documents\visual studio 2015\Projects\EmployeesAppLab\EmployeeWcfServiceApplication\obj\Debug\EmployeeWcfServiceApplication.Migrations.DateFormatChanged.resources
 C:\Users\prathyu\documents\visual studio 2015\Projects\EmployeesAppLab\EmployeeWcfServiceApplication\obj\Debug\EmployeeWcfServiceApplication.Migrations.fourthModel.resources
+C:\GitHub\EmployeesAppLab\EmployeesAppLab\EmployeeWcfServiceApplication\bin\ApplicationInsights.config
+C:\GitHub\EmployeesAppLab\EmployeesAppLab\EmployeeWcfServiceApplication\bin\EmployeeWcfServiceApplication.dll.config
+C:\GitHub\EmployeesAppLab\EmployeesAppLab\EmployeeWcfServiceApplication\bin\EmployeeWcfServiceApplication.dll
+C:\GitHub\EmployeesAppLab\EmployeesAppLab\EmployeeWcfServiceApplication\bin\EmployeeWcfServiceApplication.pdb
+C:\GitHub\EmployeesAppLab\EmployeesAppLab\EmployeeWcfServiceApplication\bin\EntityFramework.dll
+C:\GitHub\EmployeesAppLab\EmployeesAppLab\EmployeeWcfServiceApplication\bin\EntityFramework.SqlServer.dll
+C:\GitHub\EmployeesAppLab\EmployeesAppLab\EmployeeWcfServiceApplication\bin\Microsoft.AI.Agent.Intercept.dll
+C:\GitHub\EmployeesAppLab\EmployeesAppLab\EmployeeWcfServiceApplication\bin\Microsoft.AI.DependencyCollector.dll
+C:\GitHub\EmployeesAppLab\EmployeesAppLab\EmployeeWcfServiceApplication\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\GitHub\EmployeesAppLab\EmployeesAppLab\EmployeeWcfServiceApplication\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\GitHub\EmployeesAppLab\EmployeesAppLab\EmployeeWcfServiceApplication\bin\Microsoft.AI.Web.dll
+C:\GitHub\EmployeesAppLab\EmployeesAppLab\EmployeeWcfServiceApplication\bin\Microsoft.AI.WindowsServer.dll
+C:\GitHub\EmployeesAppLab\EmployeesAppLab\EmployeeWcfServiceApplication\bin\Microsoft.ApplicationInsights.dll
+C:\GitHub\EmployeesAppLab\EmployeesAppLab\EmployeeWcfServiceApplication\bin\EntityFramework.xml
+C:\GitHub\EmployeesAppLab\EmployeesAppLab\EmployeeWcfServiceApplication\bin\EntityFramework.SqlServer.xml
+C:\GitHub\EmployeesAppLab\EmployeesAppLab\EmployeeWcfServiceApplication\bin\Microsoft.AI.DependencyCollector.xml
+C:\GitHub\EmployeesAppLab\EmployeesAppLab\EmployeeWcfServiceApplication\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\GitHub\EmployeesAppLab\EmployeesAppLab\EmployeeWcfServiceApplication\bin\Microsoft.AI.Web.xml
+C:\GitHub\EmployeesAppLab\EmployeesAppLab\EmployeeWcfServiceApplication\bin\Microsoft.AI.WindowsServer.xml
+C:\GitHub\EmployeesAppLab\EmployeesAppLab\EmployeeWcfServiceApplication\bin\Microsoft.ApplicationInsights.xml
+C:\GitHub\EmployeesAppLab\EmployeesAppLab\EmployeeWcfServiceApplication\obj\Debug\EmployeeWcfServiceApplication.csprojResolveAssemblyReference.cache
+C:\GitHub\EmployeesAppLab\EmployeesAppLab\EmployeeWcfServiceApplication\obj\Debug\EmployeeWcfServiceApplication.Migrations.InitialCreate.resources
+C:\GitHub\EmployeesAppLab\EmployeesAppLab\EmployeeWcfServiceApplication\obj\Debug\EmployeeWcfServiceApplication.Migrations.SecondModel.resources
+C:\GitHub\EmployeesAppLab\EmployeesAppLab\EmployeeWcfServiceApplication\obj\Debug\EmployeeWcfServiceApplication.Migrations.thirdModel.resources
+C:\GitHub\EmployeesAppLab\EmployeesAppLab\EmployeeWcfServiceApplication\obj\Debug\EmployeeWcfServiceApplication.csproj.GenerateResource.Cache
+C:\GitHub\EmployeesAppLab\EmployeesAppLab\EmployeeWcfServiceApplication\obj\Debug\EmployeeWcfServiceApplication.dll
+C:\GitHub\EmployeesAppLab\EmployeesAppLab\EmployeeWcfServiceApplication\obj\Debug\EmployeeWcfServiceApplication.pdb
+C:\GitHub\EmployeesAppLab\EmployeesAppLab\EmployeeWcfServiceApplication\obj\Debug\EmployeeWcfServiceApplication.Migrations.fourthModel.resources

@@ -7,13 +7,13 @@ namespace EmployeeWcfServiceApplication.Migrations
     using System.Resources;
     
     [GeneratedCode("EntityFramework.Migrations", "6.1.3-40302")]
-    public sealed partial class DateFormatChanged : IMigrationMetadata
+    public sealed partial class fourthModel : IMigrationMetadata
     {
-        private readonly ResourceManager Resources = new ResourceManager(typeof(DateFormatChanged));
+        private readonly ResourceManager Resources = new ResourceManager(typeof(fourthModel));
         
         string IMigrationMetadata.Id
         {
-            get { return "201609231316492_DateFormatChanged"; }
+            get { return "201609231613218_fourthModel"; }
         }
         
         string IMigrationMetadata.Source
